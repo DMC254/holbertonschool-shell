@@ -1,2 +1,2 @@
 #!/bin/bash
-chmod +x change_owner_if_guillaume_alt.sh
+chmod +x change_owner.sh
