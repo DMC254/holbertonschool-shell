@@ -1,2 +1,2 @@
 #!/bin/bash
-declare -p | grep -E 'declare -[a-z]' | sed 's/^declare -[a-z]* //; s/=.*//'
+echo "Local Variables:"
