@@ -1,2 +1,2 @@
 #!/bin/bash
-printenv "%s=%s\n" "$var" "${!var}"
+set
