@@ -1,2 +1,2 @@
 #!/bin/bash
-result=$((POWER / DIVIDE))
+echo $(( POWER / DIVIDE )) || echo "Error: Division by zero or variable not set."
